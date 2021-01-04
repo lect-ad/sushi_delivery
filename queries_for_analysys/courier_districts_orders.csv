@@ -1,0 +1,25 @@
+id,couriers_fullname,CityDistrict,total_deliveries_in_district
+1,"Oleg Trufanov",Fest,43
+1,"Oleg Trufanov",Volotova,40
+1,"Oleg Trufanov",RW,38
+1,"Oleg Trufanov",Central,37
+2,"Kirill Panin",Central,46
+2,"Kirill Panin",RW,43
+2,"Kirill Panin",Fest,38
+2,"Kirill Panin",Volotova,37
+3,"Alla Shemlei",Volotova,54
+3,"Alla Shemlei",Fest,49
+3,"Alla Shemlei",RW,43
+3,"Alla Shemlei",Central,41
+4,"Sergei Mironenko",Volotova,51
+4,"Sergei Mironenko",Fest,43
+4,"Sergei Mironenko",Central,33
+4,"Sergei Mironenko",RW,30
+5,"Andrei Kazak",Volotova,42
+5,"Andrei Kazak",Central,35
+5,"Andrei Kazak",Fest,31
+5,"Andrei Kazak",RW,26
+6,"Maxim Valenkov",Volotova,52
+6,"Maxim Valenkov",Fest,39
+6,"Maxim Valenkov",RW,38
+6,"Maxim Valenkov",Central,28
